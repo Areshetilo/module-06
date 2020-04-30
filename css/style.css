@@ -294,7 +294,7 @@ img {
   transition: background-color 0.2s linear;
 }
 
-.social-link:not(:last-child) {
+.social-list-item:not(:last-child) {
   margin-right: 1px;
 }
 
